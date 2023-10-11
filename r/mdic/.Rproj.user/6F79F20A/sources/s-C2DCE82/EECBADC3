@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584138868016.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EECBADC3",
+    "lastKnownWriteTime" : 7813590794794696710,
+    "last_content_update" : 1584138868016,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1B6BB78B",
+        "caption" : "ncm_pescados",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ncm_pescados&cache_key=1B6BB78B",
+        "displayedObservations" : "43",
+        "environment" : "",
+        "object" : "ncm_pescados",
+        "preview" : "0",
+        "totalObservations" : "43",
+        "variables" : "14"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

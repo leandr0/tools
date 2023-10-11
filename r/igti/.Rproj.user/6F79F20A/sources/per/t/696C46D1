@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550541200018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2200843375",
+    "id" : "696C46D1",
+    "lastKnownWriteTime" : 1551306962,
+    "last_content_update" : 1551306962463,
+    "path" : "~/workspace/src/r/igti/mtcars.R",
+    "project_path" : "mtcars.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

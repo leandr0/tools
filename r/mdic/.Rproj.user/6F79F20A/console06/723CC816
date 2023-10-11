@@ -1,0 +1,32 @@
+]0;~/workspace/src/r/mdic[?1034hMacBook-Pro-de-Digital:mdic digitallam$ [KMacBook-Pro-de-Digital:mdic digitallam$ imp_ncm_pescados[order(imp_ncm_pescados$KG_LIQUIDO, decreasing = TRUE),]
+bash: imp_ncm_pescados[order(imp_ncm_pescados, decreasing = TRUE),]: command not found
+]0;~/workspace/src/r/mdicMacBook-Pro-de-Digital:mdic digitallam$ r
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[?1034h> imp_ncm_pescados[order(imp_ncm_pescados$KG_LIQUIDO, decreasing = TRUE),]
+[1mError: object 'imp_ncm_pescados' not found
+[0m> 
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[Kleandro:mdic digitallam$ [Kleandro:mdic digitallam$ 
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.

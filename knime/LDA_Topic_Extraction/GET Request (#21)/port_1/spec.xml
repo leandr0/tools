@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
+<entry key="spec_name" type="xstring" value="default"/>
+<entry key="number_columns" type="xint" value="5"/>
+<config key="column_spec_0">
+<entry key="column_name" type="xstring" value="URls"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="20"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/bF4l15LBjt"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/Jjlq0PkPhy"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/IGesBWHPEp"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/vWWp5l7sgZ"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/HdGak61gZI"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/Ok9g3JHmPH"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/obGU7ICv2Z"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/ByY59bVZJy"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/iIYLLmVrKr"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/2bHZxICALm"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/hGv3yhzRLo"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/bdEJUsOn4w"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/Omd2gwKoJk"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/AJwr5OUEVJ"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/uZC88hDQO2"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/TVWGDxUxTm"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/uY7NYoUEMv"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/jYYBluaMR8"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/IjtAgqpMSj"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/Exjbbk1WsP"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_1">
+<entry key="column_name" type="xstring" value="Final URL to Scrap"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="20"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/bF4l15LBjt&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/Jjlq0PkPhy&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/IGesBWHPEp&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/vWWp5l7sgZ&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/HdGak61gZI&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/Ok9g3JHmPH&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/obGU7ICv2Z&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/ByY59bVZJy&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/iIYLLmVrKr&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/2bHZxICALm&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/hGv3yhzRLo&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/bdEJUsOn4w&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/Omd2gwKoJk&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/AJwr5OUEVJ&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/uZC88hDQO2&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/TVWGDxUxTm&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/uY7NYoUEMv&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/jYYBluaMR8&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/IjtAgqpMSj&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://boilerpipe-web.appspot.com/extract?url=https://t.co/Exjbbk1WsP&amp;extractor=ArticleExtractor&amp;output=text&amp;extractImages=&amp;token="/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_2">
+<entry key="column_name" type="xstring" value="Status"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="200"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="409"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_3">
+<entry key="column_name" type="xstring" value="Content type"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="text/html;charset=utf-8"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="text/plain;charset=utf-8"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_4">
+<entry key="column_name" type="xstring" value="body"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="7"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Tweet%%00010Critical Infrastructure Under Attack%%00010Several recent cyber incidents targeting critical infrastructure prove that no open society is immune to attacks by cybercriminals. The recent shutdown of key US energy pipeline marks just the tip of the iceberg.%%00010Critical infrastructure is becoming more dependent on networks of interconnected devices. For example, only a few decades ago, power grids were essentially operational silos. Today, most grids are closely interlinked — regionally, nationally, and internationally as well as with other industrial sectors. And in contrast to discrete cyberattacks on individual companies, a targeted disruption of critical infrastructure can result in extended supply shortages, power blackouts, public disorder, and other serious consequences.%%00010Related Content:%%00010New From The Edge: 11 Reasons Why You Sorta Love Passwords%%00010According to the World Economic Forum (WEF) , cyberattacks on critical infrastructure posed the fifth-highest economic risk in 2020, and the WEF called the potential for such attacks &quot;the new normal across sectors such as energy, healthcare, and transportation.&quot; Another report noted that such attacks can have major spillover effects. Lloyd's and the University of Cambridge's Centre for Risk Studies calculated the prospective economic and insurance costs of a severe cyberattack against America's electricity system could amount to more than $240 billion and possibly more than $1 trillion.%%00010Given these potential far-reaching consequences, cyberattacks on critical infrastructure have become a big concern for industry and governments everywhere — and recent events haven't done much to allay these fears.%%00010A Worldwide Phenomenon%%00010In May 2021, a huge distributed denial-of-service (DDoS) attack crippled large sections of Belgium's Internet services , affecting more than 200 organizations, including government, universities, and research institutes. Even parliamentary debates and committee meetings were stalled since no one could access the online services they needed to participate.%%00010A few days later, a ransomware attack shut down the main pipeline carrying gasoline and diesel fuel to the US East Coast. The Colonial Pipeline is America's largest refined-products pipeline. The company says it transports more than 100 million gallons a day of fossil fuels, including gasoline, diesel, jet fuel, and heating oil — or almost half the supply on the East Coast, including supplies for US military facilities. %%00010In August 2020, the New Zealand Stock Exchange (NZX) was taken offline for four trading days after an unprecedented volumetric DDoS attack launched through its network service provider. New Zealand's government summoned its national cybersecurity services to investigate, and cyber experts suggested the attacks might have been a dry run of a major attack on other global stock exchanges.%%00010In October 2020, Australia's Minister for Home Affairs, Peter Dutton, said his country must be ready to fight back against disastrous and extended cyberattacks on critical infrastructure that could upend whole industries.%%00010Obvious Uptick in DDoS Attacks%%00010During the pandemic, there's been a huge increase in DDoS attacks, brute-forcing of access credentials, and malware targeting Internet-connected devices. The average cost of DDoS bots has dropped and will probably continue to fall. According to Link11's Q1/2021 DDoS report , the number of attacks witnessed more than doubled, growing 2.3-fold year-over-year. (Disclosure: I'm the COO of Link11.)%%00010Unlike ransomware, which must penetrate IT systems before it can wreak havoc, DDoS attacks appeal to cybercriminals because they're a more convenient IT weapon since they don't have to get around multiple security layers to produce the desired ill effects.%%00010The FBI  has warned that more DDoS attacks are employing amplification techniques to target US organizations after noting a surge in attack attempts after February 2020. The warnings came after other reports of high-profile DDoS attacks. In February, for example, the largest known DDoS attack was aimed at Amazon Web Services. The company's infrastructure was slammed with a jaw-dropping 2.3 Tb/s — or 20.6 million requests per second — assault, Amazon reported. The US Cybersecurity and Infrastructure Security Agency (CISA) also acknowledged the global threat of DDoS attacks.%%00010Similarly, in November, New Zealand cybersecurity organization CertNZ issued an alert about emails sent to financial firms that threatened a DDoS attack unless a ransom was paid.%%00010Predominantly, cybercriminals are just after money. The threat actors behind the most recent and ongoing ransom DDoS (RDDoS or RDoS) campaign identify themselves as state-backed groups Fancy Bear, Cozy Bear, Lazarus Group, and Armada Collective — although it remains unclear whether that's just been a masquerade to reinforce the hacker's demands. The demanded ransoms ranged between 10 and 20 Bitcoin (roughly worth $100,000 to $225,000 at the time of the attacks), to be paid to different Bitcoin addresses.%%00010Mitigating the Risk%%00010Critical infrastructure is often more vulnerable to cyberattacks than other sectors. Paying a ransom has ethical implications, will directly aid the hackers' future operations (as noted by the FBI), and will encourage them to hunt other potential victims. Targeted companies are also urged to report any RDoS attacks affecting them to law enforcement.%%00010Organizations can't avoid being targeted by denial-of-service attacks, but it's possible to prepare for and potentially reduce the impact should an attack occur. The Australian Cyber Security Centre notes that &quot;preparing for denial-of-service attacks before they occur is by far the best strategy; it is very difficult to respond once they begin and efforts at this stage are unlikely to be effective.&quot;%%00010However, as the architecture of IT infrastructure evolves, it's getting harder to implement effective local mitigation strategies. Case in point: Network perimeters continue to be weak points because of the increasing use of cloud computing services and devices used for remote work. Also, it is increasingly infeasible to backhaul network traffic, as legitimate users will be banned, too — potentially for hours or days. To minimize the risk of disruption and aim for faster recovery time objectives (RTOs) after an attack, organizations should become more resilient by eliminating human error through stringent automation. These days, solutions based on artificial intelligence and machine learning offer the only viable means of protection against cyberattacks.%%00010Marc Wilczek is a columnist and recognized thought leader, geared toward helping organizations drive their digital agenda and achieve higher levels of innovation and productivity through technology. Over the past 20 years, he has held various senior leadership roles across ... View Full Bio%%00010 %%00010"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Sign in%%00010Cybersecurity News: May 1–7, 2021%%000102nd Sight Lab cloud security news and notable cyber security industry information for the week of May 1–7, 2021%%000102nd Sight Lab | Cybersecurity | Vulnerabilities | Malware | Threat Reports | Breaches and Attacks | Cost of a Data Breach | Laws &amp; Legal | Investments%%000102nd Sight Lab News%%00010It’s official. We’re moving. 2nd Sight lab has new office space and we’re working on all the related moving details at the moment. We’re working on cloud penetration tests and security assessments for cloud accounts and cloud security products at the same time so we’ve been extra busy.%%00010Teri Radichel , CEO of 2nd Sight Lab, will be presenting at CloudLIVE 2021 ~ a cloud security conference from CloudHealth by VMWare. Find out how to protect yourself from recent cloud breaches and secure your cloud accounts. Get registered today!%%00010go.cloudhealthtech.com%%00010Cybersecurity%%00010Biden administration, Congress unite in effort to tackle ransomware attacks. See last weeks news for some thoughts on the ransomware report mentioned in this article.%%00010Unlike Apple and Firefox developer Mozilla — and unsurprisingly given its dependence on advertising revenues — Google is not doing away with tracking altogether. Instead, it aims to replace third-party cookies with its own technology: FLoC.%%00010So…still tracking just in a different way. Symantecs.%%00010www.trendmicro.com%%00010Malware%%00010Since April 2021, Cisco Talos has observed updated infrastructure and new components associated with the Lemon Duck cryptocurrency mining botnet that target unpatched Microsoft Exchange Servers and attempt to download and execute payloads for Cobalt Strike DNS beacons.%%00010blog.malwarebytes.com%%00010Once embedded in a phone, Ghimob uses the data it collects to keep an eye out for 153 mobile apps belonging to banks, fintechs and cryptocurrency exchanges based in Brazil, Germany, Portugal, Peru, Paraguay, Angola and Mozambique. When it finds one of those apps running on an infected device, it begins to spy on the app.%%00010securityintelligence.com%%00010Buer malware rewritten in Rust language to curb detection. Proofpoint researchers have named the newly rewritten variant RustyBuer after discovering phishing campaigns attempting to distribute the Rust version of the malware to more than 200 organizations, via emails purporting to be from DHL Support. The phishing emails contained a link to a downloadable Word or Excel document enabled by malicious macros.%%00010www.bleepingcomputer.com%%00010Emails reveal 128 million iOS users were affected by ‘XcodeGhost’ malware%%00010As noted by a Motherboard report, 128 million consumers had downloaded more than 2,500 apps infected by the malware that came from the fake copy of Xcode. In total, these 2,500 infected apps have been downloaded more than 203 million times in the App Store. Several developers downloaded the infected Xcode because Apple’s servers were slow, so they looked for alternative download links.%%00010Developers need security training or they do not understand the risks associated with such actions.%%00010www.pcgamer.com%%00010Malicious Office 365 Apps Are the Ultimate Insiders%%00010These malicious apps allow attackers to bypass multi-factor authentication, because they are approved by the user after that user has already logged in. Also, the apps will persist in a user’s Office 365 account indefinitely until removed, and will survive even after an account password reset.%%00010securityboulevard.com%%00010Although Microsoft publisher verification has vastly reduced the activity of cloud malware, the threat hasn’t been mitigated completely. True to form, the attackers have changed their tactics. Now, they’re compromising accounts in credible tenants first. Then, they’re creating, hosting and spreading cloud malware from within.%%00010www.bleepingcomputer.com%%00010ReversingLabs Titanium Labs helps with reverse engineering malware.%%00010The total cost of ownership ranges from $100,000-$150,000. This price includes deployment and onboarding costs while taking into account the need to support elastic scaling.%%00010www.scmagazine.com%%00010How North Korean APT Kimsuky Is Evolving Its Tactics%%00010Smartphones have become a new target of APT groups, and CloudDragon is no exception,” said Kuo, noting how the attackers are expanding more of their attacks from desktop to mobile.%%00010Threat Reports%%00010According to the Lookout Financial Services Threat Report, MDM isn’t proving to be a silver bullet.%%00010Even while MDM adoption rose 50%, quarterly exposure to phishing between 2019 and 2020 jumped by 125%, according to the Lookout Financial Services Threat Report . That’s certainly noteworthy, but the 400% increase in malware and app exposure is especially sobering.%%00010Alaska Court System remains offline after cybersecurity attack. Not clear what happened. Attacker got in and was trying to “assert control.”%%00010Breaches and Attacks%%00010Alaska Court System remains offline after cybersecurity attack. Not clear what happened. Attacker got in and was trying to “assert control.”%%00010healthitsecurity.com%%00010CaptureRX hit with ransomware. Customers are reporting related data exposure.%%00010CaptureRx, a San Antonio, TX-based provider of 340B administrative services to healthcare providers, has suffered a ransomware attack in which files containing the protected health information of customers’ patients were stolen.%%00010IT noticed unusual activity. Doesn’t say what or how.%%00010www.beckershospitalreview.com%%00010BazarBackdoor phishing campaign eschews links and files to avoid raising red flags%%00010One campaign featured a fraudulent invoice referencing a malicious website, but not directly linking to it. Instead, the attackers are counting on users typing or pasting the URL into their browsers. A second campaign included a phone number that, if called, reaches a fake company representative who will try to trick the user into visiting an attacker-controlled website.%%00010www.pymnts.com%%00010Email as a source of compromise in the health care industry.%%00010In May 2020, a month-long hack of an employee email account impacted the data of 78,070 National Cardiovascular Partners patients. Recently, Total Health Care Plan began notifying 221,450 patients that their data was compromised after several employee email accounts were hacked.%%00010In the last year, similar events were reported by American Medical Tech , Cano Health , EyeMed , and Einstein Healthcare , among a host of others.%%00010www.wired.com%%00010Vermont unemployment fraud tied to massive data breaches.%%00010Last Wednesday, the last day initial claims could be filed online, 1,700 people filed for benefits. On Thursday when a phone call was required, the number fell to 159. By Saturday the figure dropped to 30.%%00010www.zdnet.com%%00010Europe’s $2b Amazon rival Glovo breached; Hacker selling customer accounts%%00010“On April 29, we were made aware of unauthorized access by a malicious third party actor to one of our systems. The actor involved was able to gain access through an old administration panel interface. As soon as we discovered this suspicious activity, we took immediate steps to block further access by the unauthorized third party and put in place additional measures to secure our platform,” a spokesperson said.%%00010www.philstar.com%%00010Ransomware Hits Australian Telecom Provider Telstra’s Partner%%00010Among the Telstra customers affected by the breach are Nestle, a radio station, an Australian property management firm and a financial services company based in Victoria, according to the news report. Schepisi Communications provides phone numbers and cloud storage services to certain Telstra customers.%%00010How secure is your telecom company? See the report about breaches via third-parties in above listed above.%%00010www.bankinfosecurity.com%%00010Hacker leaks 150 million user records from Iranian Raychat app%%00010Diachenko further added that the database was destroyed by a bot attack, referring to the meow attack , which appears to exist only to destroy databases that are misconfigured and exposed online to public access without any security authentication. The attack does not ensue any ransom notes or threats but just the word ‘meow’ along with a random set of numbers.%%00010hayspost.com%%00010Ryuk ransomware finds foothold in bio research institute through student who wouldn’t pay for software%%00010The student was on the hunt for a free version of a data visualization software tool which would have cost them hundreds of dollars per year if licensed. After posting on a forum asking for a free alternative, the student eventually elected to find a cracked version instead.%%00010Cost of a Data Breach%%00010Canada: Court Approves $23 Million Settlement Of BMO and CIBC Bank Cyber Breach Class Actions%%00010www.kgw.com%%00010Laws &amp; Legal%%00010The class counsel’s request had included $10.7 million in fees based on a 1.253 multiplier on top of the proposed lodestar, and about $1.2 million in costs. The lawyers also asked for a $15,000 reserve for expert costs to monitor settlement compliance and a $5,000 award for the named plaintiff.’’%%00010Yes, something is amiss here. Has anyone yet seen their $125 payment from the Equifax beach? Meanwhile, have the lawyers been paid and how much? The government needs to make sure these class-action lawsuits are not a scheme for law firms to profile while people actually affected have to jump through hoops and never end up seeing any money.%%00010www.reuters.com%%00010Clarification on a ruling by the 9th circuit questioned in last week’s blog.%%00010The Second Circuit interestingly held that all courts have technically allowed for the possibility that an increased risk of identity theft could establish standing, but no plaintiff has yet hit the mark. Despite implying that standing could hypothetically exist in certain cases, however, the Second Circuit nonetheless found that [the plaintiff in this particular case] fell short.%%00010The Second Circuit set forth a non-exhaustive list of factors to consider:%%00010Whether the plaintiff’s data has been exposed as the result of a targeted attempt to obtain that data (which would make future harm more likely);%%00010Whether any portion of the dataset has already been misused, even if the plaintiffs themselves have not yet experienced identity theft or fraud; and%%00010Whether the type of data that has been exposed is of such a sensitive nature that the risk of identity theft or fraud is heightened.%%00010"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Catching Hackers in the Act%%00010Published on May 8, 2021%%00010May 8, 2021 • 11 Likes • 0 Comments%%00010Founder &amp; CEO at BLACKCLOAK | Cybersecurity Thought Leader &amp; Entrepreneur%%00010Like%%00010Twitter%%000100%%00010Hackers see your computer the way you do. They know where your most important files and records are stored – your tax records, your passwords, and company files that might be stored on a home PC. Once that data is found it can be exfiltrated and sold to other criminals, used to commit identity theft, and takeover accounts.%%00010But if the target of a hack is an executive, this data can even be used to harm the company. Executives are gatekeepers of some of the most confidential information within a company and offer top-tier access to its IT systems. But they’re not the only lucrative target for today’s hackers. High-profile and high-net individuals are increasingly attracting the focus of bad actors due to their financial or reputational status.%%00010These individuals may have some of the best physical security protections in place, but when it comes to their digital lives, they are highly vulnerable. According to the recent Verizon Data Breach Investigations Report (DBIR) , C-suite executives were 12 times more likely to be targeted in cyberattacks and 71% of these cyber-attacks were financially motivated.%%00010Hacking the networks of these individuals is relatively easy – especially when they’re outside the four walls of the secure corporate perimeter. When auditing our clients, we found that:%%0001059% of the C-suite does not have anti-virus on their personal devices.%%0001075% of computers have improper privacy and security settings or are leaking information.%%00010 27% have malware on their devices.%%0001020% of home automation and/or Wi-Fi networks are not secure.%%00010To thwart hackers, seduce them with a honeypot%%00010These individuals may as well be leaving the front door unlocked and a welcome sign on the kitchen table. Indeed, once a bad actor is over the threshold and gained a foothold on a network, they will scan it for the good stuff – files, records, anything of value. There’s nothing to deter them from going after the good stuff.%%00010But what if they first encounter a distraction? A honeypot that claims to contain the crown jewels but really is an early warning system. It’s one of the oldest yet most effective tricks in the book to lure cyber attackers away from their intended target.%%00010It’s called Deception.  %%00010What is a honeypot?%%00010A honeypot is a network service or file or device that looks like an application that might house valuable data. It’s basically screaming “over here!” The moment that a bad actor scans it, they’re busted.%%00010Once detected, Deception alerts our Security Operations Center (SOC) before the attacker has a chance to take action. Even if they discover that the file or service or device is fake, it’s too late. Our team will immediately verify that it’s not a false positive and intervene before they can breach meaningful data. This all happens transparently to the victim.%%00010You can’t stop every attack, but you can catch the bad guys in the act%%00010Think of Deception as a sticky little trap that smells so sweet. Once used to investigate the behavior of attackers, these decoy-based intrusion detection technologies have become an increasingly important tool in our arsenal against attackers. Because a honeypot or honeytrap serves no purpose to the users on the network, there is no legitimate reason why anyone would interact with making it so valuable for early detection – and the perfect compliment to BlackCloak’s other concierge cybersecurity and privacy services.%%00010Talk to a member of the BlackCloak team to learn more about Deception as part of a holistic cybersecurity &amp; privacy program.%%00010Published By%%00010"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cybersecurity Insiders%%00010Lessons learned from building an inventory of systems%%00010By%%00010[ This article was originally published here ]%%00010IT asset inventory vs an ISI – What’s the difference? %%00010Many frameworks, standards, and regulations require organizations to have an IT Asset Management program in place. However, the understanding of what separates a mature Information System Inventory (ISI) from an IT Asset Inventory and the benefits realized from an ISI are generally less well understood. Naturally this may lead to a higher likelihood of deprioritizing an ISI in favor of what are viewed as more pressing security needs.%%00010Figure 1. An Information System Inventory (ISI) is a record of Information Systems in an organization and includes information traditionally in an IT Asset Inventory.%%00010But a properly constructed ISI should be prioritized as the foundation on which organizations implement a System Development Lifecycle (SDLC) program, facilitate Security Operations activities, make informed risk management decisions, move towards a more data centric view of security and mature their security posture as…%%00010Posted by:%%00010"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="%%00010"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="In your corner for tougher online security%%00010How to Know if Your Computer Has Been Cryptojacked%%00010Cryptojacking is the latest scam to get a fancy industry name. In a cryptojacking attack, your computer’s resources are going to be highjacked and put to work mining (i.e. conjuring up out of nowhere) cryptocurrency for someone else. %%00010You can get cryptojacked in one of two ways…%%00010The first way is pretty standard. Because cryptojacking scripts are essentially a form of malware, they can be delivered in the usual malwarey ways… by opening a malicious email attachment or by visiting a malicious website. If you do either of these things, then you will have installed a cryptojacking application on your device. And you’ll be burning electricity to mine cryptocurrency for someone else for as long as the application is present and the device is switched on.%%00010The second way to become an unwitting crypto-miner is to visit a website that has had a cryptomining application added, either by a crafty website operator or by some third party – for example through the display of a malicious ad. In this case, you’ll be mining cryptocurrency for someone else for as long as your browser is visiting the infected website.%%00010By now, you’re already well versed in how to spot scammy emails and shady attachments, so you’re not going to get stung that way. But you might get stung by visiting a cryptomining-ready website or one that’s displaying malware-laden ads (such as Youtube – see below). %%00010The good news is that not all browsers will allow cryptomining applications to run. The bad news is that some do. %%00010You can find out if your browser is susceptible to cryptojacking at the purpose-built https://cryptojackingtest.com/%%00010This website is operated by the makers of the Opera web browser. Their goal for this site is to get you to discover your existing browser’s vulnerability to cryptojacking, and make the switch to the Opera browser.%%00010No one likes change, so we’d rather not switch unless we really have to. So the question is - do we need to switch?%%00010Like all good nerds, I have a bunch of browsers, but Google Chrome is the one that gets most use. Is Chrome vulnerable? Will Chrome silently run someone else’s cryptomining application without my permission?%%00010Right now, the answer to that question is Yes. With the most recent Chrome update installed, I ran the cryptojackingtest.com test and yep, Chrome will happily load and run the cryptomining software.%%00010Is there a solution that doesn’t involve switching browsers?%%00010Happily, yes.%%00010Enter uBlock Origin.%%00010uBlock Origin (uBO) is a browser extension (plug-in) that blocks ads from showing on the web pages that we visit. This is helpful because online ads can be distracting. And more importantly, online ads can be made to install malware (such as cryptomining applications) on our devices. So uBO makes good sense (unless your business is dependent on ads).%%00010And there’s even more good news! uBO also stops cryptomining applications from running. Right now, there are about 30,000 websites that have the Coinbase cryptomining application installed. If you were to visit any one of those websites, then your browser and device is going to be press-ganging into mining (Monero) coins for the website operator. This is going to slow your machine down to a crawl and be generally annoying. uBO stops this from happening.%%00010So there you are. Three good reasons to install an ad blocker – or more specifically, the uBO ad blocker. For reference, uBO is free to use and is supported by donations made via their website.%%00010Further Reading%%00010Fun article on how to use Search to find websites that have the Coinbase cryptojacking application installed. There are 30,000+ as of today.%%00010"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="CyGlass%%00010In 2020, there was an unprecedented growth in ransomware attacks and this trend shows no signs of slowing down. Rather, these attacks are evolving and becoming more harmful as cyber criminals become more organized and effective. It is predicted that in 2021, businesses will fall victim to a ransomware attack every 11 seconds with an estimated cost of over $20 billion – 57 times more than in 2015, making ransomware the fastest growing type of cybercrime.%%00010As a result, companies are transitioning from the traditional “trust but verify” method and implementing a Zero Trust model, requiring all users to be authenticated and continually authorized in order to be granted access and maintain access to company data and applications. By leveraging various technologies &amp; techniques such as multifactor authentication, IAM, least privilege access, and microsegmentation, the Zero Trust model reduces the risk of a ransomware attack and minimizes the potential damage from a breach.%%00010This panel will highlight where enterprises are most vulnerable to becoming a victim of ransomware and how utilizing a Zero Trust model minimizes this risk. Industry experts will discuss best practices to avoid a ransomware attack including adapting the Zero Trust model, what to do if your company is being held for ransom, ways to mitigate the damage caused by an attack, and how to recover afterwards.%%00010HYPR%%00010With the Passwordless Decade well underway, more and more organizations are asking the question: Why is now the right time to move beyond passwords?%%00010George Avetisov, CEO of HYPR, will discuss the rise of organizations moving to the cloud, how the perimeter fades and the attack surface gets larger. Modern tools such as SNIPR and Modlishka make it easier for hackers to launch large-scale automated attacks, bringing credential re-use and two-factor-authentication attacks to record highs. %%00010How did we get here, and will mainstream adoption of passwordless security have an impact? We will explore how the rise of virtual desktop infrastructure and a remote workforce has affected workstation login and review how the evolution of authentication has impacted organizations’ identity and access management systems.%%00010In this session, you’ll learn:%%00010• Why this is the Passwordless Decade%%00010• Why credential reuse at all-time highs%%00010• How authentication has evolved%%00010ThreatModeler Software, Inc%%00010The move to cloud poses unique challenges as organizations adapt to securing infrastructure as code for all applications while being prepared to secure brave new features such as containers, microservices and automatic scaling. Deploying all your infrastructure as code with security built-in is a challenge. Teams must consistently conform to established standards operating in the cloud environment and enforce these standards through processes such as automated checking and automated compliance testing.%%00010 %%00010“As we’ve all learned throughout the years, good compliance doesn’t always equal good security, but good security usually means easy compliance.”%%00010– Tom Holodnik, Intuit%%00010Arctic Wolf%%00010It is important to recognize that, overall, the industry has an effectiveness problem. The escalation in threat activity and the talents shortage in the industry has created a situation where, despite lots of products and cybersecurity spend, we aren’t getting better protection. To put a finer point on it, there are over 3,000 vendors selling products in the industry. The total spend last year was $120B+ and even with all of that there we almost 4,000 breaches — a 96% increase over the previous year.​ The key takeaway from these breaches is that they are NOT product failures.​ They are operational failures. ​To prevent these kinds of breaches from happening again in the future, we believe, the industry needs to adopt a new approach – an operational approach – to cybersecurity. ​%%00010Skybox Security%%00010Wagons, bandits, gun smoke, chewing tobacco.  Who doesn’t like a good Western movie?  Today’s cyber landscape with its sophisticated bandits and data being held ransom is the modern “wild west”.  While the security community has made vast strides in innovating tools to secure corporate infrastructure, the breaches of this decade have shown that we still have a long way to go. Decades-old techniques of scanning for vulnerabilities and patching by volume are unable to tame the volume of vulnerabilities being discovered daily.%%00010Jannine Mahone, Sr. Manager with Skybox Security will discuss the history of vulnerability management, the techniques and tools that have become staples in our modern-day arsenal and the coming of age that will dramatically impact the war on cybercrime.%%00010Topics covered in this session:%%00010A look back at vulnerabilities over the past two decades%%00010Why vulnerabilities hide in plain sight%%00010The new sheriffs in town: Advances in visibility, exposure analysis, and multi-factor prioritization%%00010The way forward – bridging the tools gap for seamless attack surface management%%00010Morphisec%%00010The adversary is winning the war against our detection-centric defenses. And they are now targeting smaller, more vulnerable enterprises with lean budgets and security teams. Greater spending on security vendors with big advertising budgets has only resulted in even greater economic damage. The security market is broken and needs a mindset shift. A new approach is needed with a proactive defense posture centered on a Zero Trust strategy that extends from identity and networks, to the endpoint at application runtime. The latest supply chain application exploits show the need for runtime endpoint security that is automatic, and transparent to systems and users.%%00010 %%00010In this presentation, Andrew Homer will describe how the MITRE ATT&amp;CK framework helps organizations of all sizes address risk and how to take actionable steps on how to use ATT&amp;CK to understand the techniques that threat actors are most likely to employ when targeting businesses like yours. %%00010 %%00010Andrew will walk through how MITRE ATT&amp;CK can help prioritize what improvements can be made to reduce the most risk. Finally, this presentation will explore the how to extend your Zero Trust strategy beyond the perimeter to include endpoint workstations, servers and cloud workloads at run time to eliminate advanced threats. This approach will help budget constrained enterprises automatically block the most dangerous attacks, before the breach damage can occur.%%00010 %%00010Tenable, Inc.%%00010Legacy approaches to vulnerability management are more like games of whack-a-mole that we can’t ultimately win than an actual modern security strategy. As networks and assets have changed and expanded dramatically, the time is right for evolving to a risk-based approach. The question is how?%%00010In this session we’ll explain what sets Risk-Based Vulnerability Management apart from legacy methods, and how it can help you make proactive, informed decisions, take control of your organization’s risk posture and reduce the strain on your security and IT teams.%%00010Topics covered include:%%00010Understanding why eliminating blind spots by discovering and mapping all assets across your entire attack surface is critical for your success%%00010How prioritizing technical and business risk to drive remediation is more efficient and effective than a boil-the-ocean approach to mitigating vulnerabilities%%00010Updating your metrics to be relevant for both technical and non-technical audiences in today’s risk-focused, business-driven world%%00010JetPatch%%00010The everlasting project. No matter what you do, how many days and nights you spend trying to cope with the endless vulnerabilities that keep on piling up, all the automation tools you buy, and all efforts you invest –  you will never win. In this session, Shai Toren, CEO of JetPatch, will showcase an innovative approach to solving the long-lasting challenges of patch management – a fundamental problem striving for a modern solution. Using an analogy taken from the hospital ER, he will explain why the current legacy patching solutions failed miserably and how machine-learning technology and hyper-automation transform the way patching should be done – with zero-touch – allowing systems to self-heal and remediate.%%00010What are the pitfalls of common patch management solutions%%00010What are the main enterprise built-in complexities impacting successful remediation%%00010The importance of ‘shifting left’ patch remediation%%00010How to build a self-healing patch operation%%00010 %%00010BSI%%00010Over the past few years, the number of organizations that have adopted cloud-based systems has grown exponentially, largely due to the COVID-19 pandemic. In turn, cloud security has become a critical issue for IT security executives and their teams. McAffee reported an increase of 630% in attacks by external actors targeting cloud services between January and April of 2020. This uptick in cloud security breaches is projected to persist even after the pandemic as many companies continue to utilize the cloud and leverage its benefits.%%00010While migrating to the cloud offers numerous advantages, it also poses certain threats and challenges. In a recent report by Oracle &amp; KPMG, over 90% of IT Professionals felt their organization had a cloud security readiness gap. A significant concern for many who are adapting to a cloud-based workforce is misconfigurations and gaps in cloud security programs. Additionally, cloud-based infrastructure requires adopting new security policies and processes. Many companies believe their existing security teams lack the necessary skillsets and knowledge that the cloud environment requires, especially as organizations turn to multi-cloud, hybrid cloud, and distributed cloud models.%%00010This panel will highlight the areas where cloud systems can leave enterprises vulnerable, ways to minimize common misconfiguration errors, and other best practices to mitigate threats when migrating to the cloud. Our lineup of Industry Experts will provide their expertise on developing a robust cloud security strategy that addresses these issues and insight on how to stay secure in the future of cloud security.%%00010Menlo Security%%00010Zero Trust Security is an urgent priority for organizations with a vested interest in data security. But CISOs everywhere are struggling to find the best solution to enable Zero Trust measures without imposing restrictions and burdens on end-users or compromising their security stack.%%00010The current web, email and end-point security solutions are not sufficient to address the exponential growth and advancement of cyber threats. However, a disruptive solution utilizing isolation can provide 100% malware-free email and web browsing in a non-disruptive, scalable manner. YES – 100%. Join this session to learn more about the changing future of using SASE service models to achieve Zero Trust Security. %%00010Ordr%%00010For many years now, enterprises have seen an explosive rise in connected devices, from traditional IT devices like servers, workstations and PCs to new and more vulnerable IoT, IoMT, and OT like building systems, medical equipment and manufacturing machines.  This myriad of devices from different manufacturers, operating systems and protocols expand the attack surface. IoT, IoMT, and OT bring their own challenges as they are typically not designed with security in mind. The bad news? Security teams are still responsible for all of them. It’s time for a modern approach. In this session, Ordr’s Chief Strategy Officer Danelle Au outlines why connected device security should be on your security initiatives in 2021, and presents a framework that starts with real-time asset inventory and ends with scalable security. Learn best practices and implementation considerations for device discovery, profiling and segmentation as you start your connected device security journey.%%00010Neustar%%00010When you hear “ransom attack” you probably think of ransomware – the malware that can encrypt or block files or entire systems until you pay the attacker to restore access. But there’s been a massive surge in a virulent new type of ransom attack. And the defenses you’ve established to fight ransomware won’t help defeat this new threat, because it doesn’t require malware. Instead, the extortionists simply threaten to shut down your network with a massive Distributed Denial of Service (DDoS) attack at a specified day and time – unless you pay. %%00010Attend this session to learn:%%00010Why these new attacks are so dangerous%%00010How a typical attack unfolds%%00010What to do if you’re threatened%%00010How to prepare to fight one off successfully%%00010Securonix%%00010Insider Threat has become increasingly problematic to businesses as the frequency and cost of these threats have risen over the last several years. In a global study conducted by Ponemon Institute in September of 2019, there was a 31% increase in overall cost of Insider Threat and a 47% increase in the total number of Insider Incidents from 2018.%%00010Today, Insider Threat poses an even greater risk to businesses in the wake of the COVID-19 pandemic. Forrester Research, Inc. reported that in 2020, a quarter of all security breaches were caused by an insider and estimates that in 2021, Insider Threats will account for 33% of security breaches.%%00010This panel will discuss the various factors that contribute to this increase in Insider breaches, how remote work has impacted the malicious &amp; non-malicious Insider Threats facing businesses, and the implications this has on enterprises today. Our lineup of Industry Experts will offer their insight &amp; provide best-practices on how businesses and their IT Security Teams should address these risks and adapt in order to defend against Insider Threats.%%00010Cyberint%%00010If anyone has benefitted from the pandemic, it has been cyber attackers.%%00010As businesses expanded their investment in cloud resources and other IT resources in response to the pandemic, cyberattacks also dramatically increased.%%00010Businesses reported 445 million cyberattack incidents in 2020, double the rate for 2019.%%00010It didn’t have to be this way. With stronger threat intelligence solutions in place, many of the security incidents of 2020 could likely have been averted.%%00010During this session Avital a very Senior Threat Intelligence Team Lead at Cyberint, will demonstrate with examples why pin-pointed Threat Intelligence should be a key component for your Cyber-security strategy.%%00010"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+</config>

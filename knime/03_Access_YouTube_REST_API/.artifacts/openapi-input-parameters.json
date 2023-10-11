@@ -1,0 +1,18 @@
+
+{
+    "type": "object",
+    "properties": {
+        "1076:251": {
+            "type": "string",
+            "default": "<your key API>",
+            "description": "Enter Description",
+            "example": "<your key API>"
+        },
+        "1076:342": {
+            "type": "string",
+            "default": "KNIME",
+            "description": "multiple keywords are joined with +",
+            "example": "KNIME"
+        }
+    }
+}

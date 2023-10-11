@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550588885105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2129260677",
+    "id" : "9B14D682",
+    "lastKnownWriteTime" : 1550589424,
+    "last_content_update" : 1550589424557,
+    "path" : "~/workspace/src/r/igti/iris.R",
+    "project_path" : "iris.R",
+    "properties" : {
+        "cursorPosition" : "38,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

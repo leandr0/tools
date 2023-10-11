@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+<met:element form="text" read-only="false" name="Author">winter</met:element>
+<met:element form="date" read-only="false" name="Creation Date">5/4/2015/12:00:01 +02:00</met:element>
+<met:element form="multiline" read-only="false" name="Comments">How to access YouTube REST API
+
+This workflow accesses a few YouTube services through the Google YouTube REST API.&#13;
+-"search" to retrieve videos according to selected keywords (use + to join multiple keywords).&#13;
+- call "videos" to get details about a given video through its video ID.&#13;
+- call "commentThreads" to get all comments for a video with a given videoID.&#13;
+&#13;
+In order to access the data you need an API Key from Google Cloud Console enabled for Youtube REST Service.&#13;
+&#13;
+
+
+URL: Will They Blend? Experiments in Data &amp; Tool Blending. Today: YouTube Metadata meet WebLog Files. What will it be tonight – a movie or a book? https://www.knime.org/blog/YouTube-meets-WebLog
+URL: Youtube API Reference https://developers.google.com/apis-explorer/?hl=en_US#p/youtube/v3/
+URL: YouTube API Overview https://developers.google.com/youtube/v3/getting-started#before-you-start
+TAGS: YouTube,REST,Google API,video metadata,tag cloud</met:element>
+</met:KNIMEMetaInfo>
